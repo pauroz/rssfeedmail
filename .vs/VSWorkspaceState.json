@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\config",
+    "\\public",
+    "\\src",
+    "\\src\\controllers",
+    "\\src\\routes",
+    "\\src\\schema",
+    "\\src\\storage"
+  ],
+  "SelectedNode": "\\config\\development.json",
+  "PreviewInSolutionExplorer": false
+}
